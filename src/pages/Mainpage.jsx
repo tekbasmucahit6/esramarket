@@ -10,12 +10,6 @@ function Mainpage() {
                 <b className='text-white text-4xl font-semibold flex'>ESRA M <BsBasket3Fill className='text-red-600'/> RKET</b>
                 <i className='font-semibold font-mono text-red-500 animate-pulse transition-all'>çok yakında buradayız...</i>
             </div>
-
-
-        <div className=''>
-            <strong className='text-white'></strong>
-        </div>
-
     </div>
     </>
   )
